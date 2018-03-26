@@ -1,0 +1,118 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Listen to Wave FM, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Wave FM",
+            "Alexa, play Wave FM",
+            "Alexa, ask Wave FM to play"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "Wave FM",
+          "description": "Listen to Wave FM, with less bla bla bla, and more la la la.\n\nWave FM provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Wave FM\" or \"Alexa, play Wave FM\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-GB": {
+          "summary": "Listen to Wave FM, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Wave FM",
+            "Alexa, play Wave FM",
+            "Alexa, ask Wave FM to play"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "Wave FM",
+          "description": "Listen to Wave FM, with less bla bla bla, and more la la la.\n\nWave FM provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Wave FM\" or \"Alexa, play Wave FM\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-IN": {
+          "summary": "Listen to Wave FM, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Wave FM",
+            "Alexa, play Wave FM",
+            "Alexa, ask Wave FM to play"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "Wave FM",
+          "description": "Listen to Wave FM, with less bla bla bla, and more la la la.\n\nWave FM provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Wave FM\" or \"Alexa, play Wave FM\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-CA": {
+          "summary": "Listen to Wave FM, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Wave FM",
+            "Alexa, play Wave FM",
+            "Alexa, ask Wave FM to play"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "Wave FM",
+          "description": "Listen to Wave FM, with less bla bla bla, and more la la la.\n\nWave FM provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Wave FM\" or \"Alexa, play Wave FM\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        },
+        "en-AU": {
+          "summary": "Listen to Wave FM, less bla bla bla, more la la la.",
+          "examplePhrases": [
+            "Alexa, open Wave FM",
+            "Alexa, play Wave FM",
+            "Alexa, ask Wave FM to play"
+          ],
+          "keywords": [
+            "music",
+            "streaming",
+            "radio"
+          ],
+          "name": "Wave FM",
+          "description": "Listen to Wave FM, with less bla bla bla, and more la la la.\n\nWave FM provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch Wave FM\" or \"Alexa, play Wave FM\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\"",
+          "smallIconUri": "https://alexademo.ninja/skills/logo-108.png",
+          "largeIconUri": "https://alexademo.ninja/skills/logo-512.png"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Include your testing instruction (if any) here",
+      "category": "STREAMING_SERVICE",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/src"
+        },
+        "interfaces": [
+          {
+            "type": "AUDIO_PLAYER"
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0",
+    "permissions": [],
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "isExportCompliant": true,
+      "containsAds": false,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
