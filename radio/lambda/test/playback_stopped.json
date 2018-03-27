@@ -3,13 +3,13 @@
   "context": {
     "AudioPlayer": {
       "offsetInMilliseconds": 272197,
-      "token": "https://audio1.maxi80.com",
+      "token": "http://webradio.radiomonitor.com/stream/Wave-Dundee/;stream.mp3?_=1",
       "playerActivity": "STOPPED"
     },
     "Display": {},
     "System": {
       "application": {
-        "applicationId": "amzn1.ask.skill.123"
+        "applicationId": "amzn1.ask.skill.2432da25-e54b-4b80-902b-6852cad0190f"
       },
       "user": {
         "userId": "amzn1.ask.account.123"
@@ -33,7 +33,7 @@
     "requestId": "amzn1.echo-api.request.123",
     "timestamp": "2017-07-08T09:49:39Z",
     "locale": "en-GB",
-    "token": "https://audio1.maxi80.com",
+    "token": "http://webradio.radiomonitor.com/stream/Wave-Dundee/;stream.mp3?_=1",
     "offsetInMilliseconds": 272197
   }
 }

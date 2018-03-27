@@ -105,9 +105,9 @@ function shouldPlayJingle(userId) {
 
 var intentHandlers = {
     'LaunchRequest': function () {
-        this.emit('PlayAudio');
+        this.emit('PlayWaveFM');
     },
-    'PlayAudio': function () {
+    'PlayWaveFM': function () {
 
         let request = this.event.request;
 

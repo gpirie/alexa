@@ -71,7 +71,7 @@ var audioData = {
             smallImageUrl: 'https://s3-eu-west-1.amazonaws.com/alexa.maxi80.com/assets/alexa-artwork-720.png'
         }
     },
-    url: 'https://audio1.maxi80.com',
+    url: 'http://webradio.radiomonitor.com/stream/Wave-Dundee/;stream.mp3?_=1',
     startJingle : 'https://s3.amazonaws.com/alexademo.ninja/maxi80/jingle.m4a',    
 };
 ```
@@ -89,7 +89,7 @@ var audioData = {
 module.exports = Object.freeze({
     
     //App-ID. TODO: set to your own Skill App ID from the developer portal.
-    //appId : 'amzn1.ask.skill.123',
+    //appId : 'amzn1.ask.skill.2432da25-e54b-4b80-902b-6852cad0190f',
 
     // when true, the skill logs additional detail, including the full request received from Alexa
     debug : true,
@@ -192,7 +192,7 @@ $ ask api list-skills
         "en-GB": "Wave FM",
         "en-US": "Wave FM"
       },
-      "skillId": "amzn1.ask.skill.123",
+      "skillId": "amzn1.ask.skill.2432da25-e54b-4b80-902b-6852cad0190f",
       "stage": "development"
     }
   ]
@@ -205,7 +205,7 @@ Then copy/paste the skill id to ```lambda/src/constants.js```
 module.exports = Object.freeze({
     
     //App-ID. TODO: set to your own Skill App ID from the developer portal.
-    appId : "amzn1.ask.skill.123",
+    appId : "amzn1.ask.skill.2432da25-e54b-4b80-902b-6852cad0190f",
 
     // when true, the skill logs additional detail, including the full request received from Alexa
     debug : false

@@ -10,7 +10,7 @@ let en = {
             smallImageUrl: 'https://s3.amazonaws.com/alexademo.ninja/maxi80/alexa-artwork-720.png'
         }
     },
-    url: 'https://audio1.maxi80.com',
+    url: 'http://webradio.radiomonitor.com/stream/Wave-Dundee/;stream.mp3?_=1',
     startJingle : 'https://s3.amazonaws.com/alexademo.ninja/maxi80/jingle.m4a'
 };
 

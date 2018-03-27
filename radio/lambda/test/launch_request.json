@@ -4,7 +4,7 @@
     "new": true,
     "sessionId": "amzn1.echo-api.session.123",
     "application": {
-      "applicationId": "amzn1.ask.skill.123"
+      "applicationId": "amzn1.ask.skill.2432da25-e54b-4b80-902b-6852cad0190f"
     },
     "user": {
       "userId": "amzn1.ask.account.123"
@@ -16,7 +16,7 @@
     },
     "System": {
       "application": {
-        "applicationId": "amzn1.ask.skill.123"
+        "applicationId": "amzn1.ask.skill.2432da25-e54b-4b80-902b-6852cad0190f"
       },
       "user": {
         "userId": "amzn1.ask.account.123"

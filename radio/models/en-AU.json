@@ -4,7 +4,7 @@
       "invocationName": "wave fm",
       "intents": [
         {
-          "name": "PlayAudio",
+          "name": "PlayWaveFM",
           "samples": [
             "play",
             "start",
